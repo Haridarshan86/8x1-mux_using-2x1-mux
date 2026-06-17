@@ -32,3 +32,8 @@ The 8×1 MUX is built using seven 2×1 MUXes arranged in three stages.
 <img width="1616" height="857" alt="image" src="https://github.com/user-attachments/assets/605c0178-de78-408a-aa20-f6913746ab6d" />
 
 
+## TCL Console
+
+
+<img width="1078" height="394" alt="image" src="https://github.com/user-attachments/assets/5455aa1b-f965-49dd-a667-279cea518014" />
+
