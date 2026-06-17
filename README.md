@@ -29,5 +29,6 @@ The 8×1 MUX is built using seven 2×1 MUXes arranged in three stages.
 
 
 ## 🧪 Simulation
+<img width="1616" height="857" alt="image" src="https://github.com/user-attachments/assets/605c0178-de78-408a-aa20-f6913746ab6d" />
 
 
